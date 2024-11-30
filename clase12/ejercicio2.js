@@ -9,8 +9,19 @@ switch (dia) {
     case "viernes":
         console.log("tenes clases.");
         break;
+    case "martes":
+            console.log("no tenes clases.");
+            break;
+    case "jueves":
+            console.log("no tenes clases.");
+            break;
+    case "sabado":
+            console.log("no tenes clases.");
+    case "domingo":
+            console.log("no tenes clases");
+            
     default:
-        console.log("no tenes clases.");
+        console.log("dia invalido");
 
         
                 
