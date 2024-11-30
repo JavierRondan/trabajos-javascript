@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")({ sigint: true });
 
-let dia = " ";
+let dia = "jueves";
 
 switch (dia) {
     case "lunes" :
