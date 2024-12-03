@@ -9,7 +9,7 @@ if (!isNaN(nota)) {
     notas.push(nota)
 }else{
     console.log("la nota ingresada no es valida. Se ingresara 0 por default.");
-    nota.push(0)
+    notas.push(0)
 }
 console.log("Las notas ingresadas hasta el momento son:" + notas )
 
